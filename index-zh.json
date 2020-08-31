@@ -1,0 +1,62 @@
+{
+	"menu": {
+		"home": "首頁",
+		"about": "關於我",
+		"skill": "技能",
+		"resume":"履歷",
+		"work":"工作",
+		"contact":"聯絡我"
+	  },
+	  "head":{
+		  "hi": "Hi This is",
+		  "name": "Aasta Lin",
+		  "job" : "Software Engineer"
+	  },
+	"profile":{
+		"nameTitle":"姓名",
+		"ageTitle":"年齡",
+		"yearTitle":"年資",
+		"countryTitle":"國籍",
+		"locationTitle":"所在地",
+		"emailTitle":"E-mail",
+		"phoneTitle":"電話",
+		"freelanceTitle":"自由工作者",	
+		"name":"林子馨",
+		"age":"30歲",
+		"year":"七年",
+		"country":"台灣",
+		"location":"台北",
+		"email":"service@aasta.me",
+		"phone":"0980039786",
+		"freelance":"Yes"
+	},
+	"skill":{
+		"title":"服務清單",
+		"website":"網站架設",
+		"websitedesc":"官網、形象網站建置，響應式網站可於電腦、平板、手機皆有良好的觀看比例。",
+		"system":"客製化系統",
+		"systemdesc":"電子商務系統、公司內部所使用的系統等等，都可以為您量身編寫",
+		"maintenance":"系統維護",
+		"maintenancedesc":".net Core 、.net MVC 、webForm 皆可維護",
+		"community":"社群串接",
+		"communitydesc":"DB、LINE、Wechat串接模組，可接新開發系統亦可接現有系統"
+	},
+	"experience":{
+		"title":"過往經歷",
+		"nextfortech":"技術經理 - 翌碩資訊",
+		"nextfortechdesc":"客戶訪談、系統分析、系統架構、IoT等等",
+		"apex":"資深程式設計師 - 寶碩財務",
+		"apexdesc":"開發虛擬交易平台，獨攬電商模組建置上線",
+		"yunquantech":"資深程式設計師 - 雲詮科技",
+		"yunquantechdesc":"金融保險系統維護、促銷審核系統開發、業務業績評估系統開發",
+		"yuantai":"程式設計師 - 元太數位",
+		"yuantaidesc":"學校活動系統開發、學校競賽系統開發、實習管理系統開發等等學校相關系統開發、維護",
+		"lp":"軟體工程師 - 龍翩真空",
+		"lpdesc":"自動化控制系統維護擴充、開發"
+	},
+	"other":{
+		"hi":"Hello",
+		"download":"下載履歷",
+		"contact":"聯絡我"
+	}
+}

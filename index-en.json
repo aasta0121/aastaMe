@@ -1,0 +1,62 @@
+{
+	"menu": {
+		"home": "Home",
+		"about": "About",
+		"skill": "Skill",
+		"resume":"Resume",
+		"work":"Work",
+		"contact":"Contact"
+	  },
+	"head":{
+		"hi": "Hi This is",
+		"name": "Aasta Lin",
+		"job" : "Software Engineer"
+	},
+	"profile":{
+		"nameTitle":"Name",
+		"ageTitle":"Age",
+		"yearTitle":"Experience",
+		"countryTitle":"Country",
+		"locationTitle":"Location",
+		"emailTitle":"E-mail",
+		"phoneTitle":"Phone",
+		"freelanceTitle":"Freelance",	
+		"name":"Aasta Lin",
+		"age":"30 Years",
+		"year":"7 Years",
+		"country":"Taiwan",
+		"location":"Taipei",
+		"email":"service@aasta.me",
+		"phone":"0980039786",
+		"freelance":"Yes"
+	},
+	"skill":{
+		"title":"My Service",
+		"website":"Website Building",
+		"websitedesc":"The official website and image website are built, and the responsive website can be viewed on computers, tablets, and mobile phones.",
+		"system":"Customized system",
+		"systemdesc":"E-commerce systems, systems used within the company, etc. can be tailored for you",
+		"maintenance":"System maintenance",
+		"maintenancedesc":".net Core 、.net MVC 、webForm Can be maintained",
+		"community":"Community connection",
+		"communitydesc":"DB, LINE, Wechat serial connection module, can connect to new development system or existing system"
+	},
+	"experience":{
+		"title":"Experience",
+		"nextfortech":"Technical Manager - NEXTFORTECH",
+		"nextfortechdesc":"Customer interviews, system analysis, system architecture, IoT, etc.",
+		"apex":"Senior Software Engineer - APEX",
+		"apexdesc":"Develop virtual trading platform, monopolize e-commerce module construction and go live",
+		"yunquantech":"Senior Software Engineer - YUNQUANTECH",
+		"yunquantechdesc":"Financial and insurance system maintenance, promotion review system development, business performance evaluation system development",
+		"yuantai":"Programmer- YUANTAI",
+		"yuantaidesc":"School activity system development, school competition system development, practice management system development, etc. School related system development and maintenance",
+		"lp":"Software Engineer - LP-VACUUM",
+		"lpdesc":"Automatic control system maintenance and expansion"
+	},
+	"other":{
+		"hi":"Hello",
+		"download":"Download",
+		"contact":"Contact us"
+	}
+}
